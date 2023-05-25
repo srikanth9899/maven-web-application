@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>srinivas Releases Nexus Repository</name>
-	      <url>http://3.145.133.222:8081/repository/srinivas-Release/</url>
+	      <name>srikanth Releases Nexus Repository</name>
+	      <url>http://18.221.168.193:8081/repository/srikanth-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>srinivas Snapshot Nexus Repository </name>
-	      <url>http://3.145.133.222:8081/repository/srinivas-Snapshot/</url>
+	      <name>srikanth Snapshot Nexus Repository </name>
+	      <url>http://18.221.168.193:8081/repository/srikanth-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
