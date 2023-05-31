@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>srikanth Releases Nexus Repository</name>
-	      <url>http://18.221.168.193:8081/repository/srikanth-release/</url>
+	      <url>http://18.188.79.226:8081/repository/srikanth-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>srikanth Snapshot Nexus Repository </name>
-	      <url>http://18.221.168.193:8081/repository/srikanth-snapshot/</url>
+	      <url>http://18.188.79.226:8081/repository/srikanth-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
